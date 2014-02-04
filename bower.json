@@ -1,0 +1,17 @@
+{
+  "name": "toobad",
+  "main": "toobad.js",
+  "version": "0.1.1",
+  "homepage": "https://github.com/hanamura/toobad.js",
+  "authors": [
+    "Taro Hanamura <m@hanamurataro.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
